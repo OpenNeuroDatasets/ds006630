@@ -1,0 +1,22 @@
+{
+    "Name": "Sample Data for Decoding Continuous Character-based Language from Non-invasive Brain Recordings",
+    "BIDSVersion": "v1.9.0",
+    "Authors": [
+        "Xiaoqing Zheng1,2",
+	"Cenyuan Zhang",
+	"Ruicheng Yin",
+	"Shujie Geng",
+	"Jianhan Xu",
+	"Xuan Gao",
+	"Changze Lv",
+	"Zixuan Ling",
+	"Xuanjing Huang",
+	"Bingyan Qiao",
+	"Mengmeng Su",
+	"Wei Zhou",
+	"Miao Cao",
+	"Jianfeng Feng3"
+    ],
+    "License": "CC-BY"
+}
+
