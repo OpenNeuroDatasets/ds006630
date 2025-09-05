@@ -1,5 +1,5 @@
 {
-    "Name": "Sample Data for Decoding Continuous Character-based Language from Non-invasive Brain Recordings",
+    "Name": "Sample Data for Cross-subject Decoding of Continuous Language from Non-invasive fMRI Recordings",
     "BIDSVersion": "v1.9.0",
     "Authors": [
         "Xiaoqing Zheng1,2",
